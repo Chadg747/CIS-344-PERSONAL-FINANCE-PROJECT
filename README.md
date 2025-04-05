@@ -7,3 +7,11 @@ This application allows users to manage their personal finances by tracking inco
 
 Included:
 
+ - Development Process Overview
+
+ -Database Design
+
+ - User Guide: How to Use the Personal Finance Tracker
+
+This guide walks users through the app’s features with step-by-step instructions.
+
