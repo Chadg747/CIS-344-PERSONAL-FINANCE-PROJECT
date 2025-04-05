@@ -1,5 +1,5 @@
 # CIS-344-PERSONAL-FINANCE-PROJECT
-Created by: Chad Garcia, Quinn Gollazo, Moses Colon
+Created by: Chad Garcia, Quinn Collazo, Moses Colon
 
 This application allows users to manage their personal finances by tracking income, expenses, budgets, and savings goals. It offers an intuitive interface to monitor spending habits, generate reports, and plan financially.
 
