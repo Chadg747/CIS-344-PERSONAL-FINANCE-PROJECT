@@ -9,7 +9,7 @@ Included:
 
  - Development Process Overview
 
- -Database Design
+ - Database Design
 
  - User Guide: How to Use the Personal Finance Tracker
 
